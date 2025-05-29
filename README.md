@@ -1,4 +1,4 @@
-# quiz_game-project-for-Micro-IT
+# quiz_game
 # Online Quiz Game
 
 This is a simple online quiz game implemented in Python using the `tkinter` library for the GUI and the `requests` library to fetch questions from the Open Trivia Database API.
